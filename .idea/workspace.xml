@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8713df4-c310-46bc-9ebe-f0c960ca6f71" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b8713df4-c310-46bc-9ebe-f0c960ca6f71" name="Changes" comment="ДЗ">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/bakuleva/testing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/bakuleva/testing/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/bakuleva/testing/UserGreeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/bakuleva/testing/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/me.bakuleva.testing/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/me.bakuleva.testing/UserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,11 +105,24 @@
       <workItem from="1681384667278" duration="1744000" />
       <workItem from="1681386840859" duration="4356000" />
       <workItem from="1681462518957" duration="1803000" />
-      <workItem from="1681546777532" duration="8786000" />
+      <workItem from="1681546777532" duration="9227000" />
+      <workItem from="1681607000545" duration="2546000" />
     </task>
+    <task id="LOCAL-00001" summary="ДЗ">
+      <created>1681560066301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681560066301</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ДЗ" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ" />
   </component>
 </project>

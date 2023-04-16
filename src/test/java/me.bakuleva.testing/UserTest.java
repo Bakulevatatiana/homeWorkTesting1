@@ -20,19 +20,17 @@ public class UserTest {
     void willPerformTestingWithoutPassingParametersToIt() {
         User user = new User();
 
-        String actualResult1 = user.getEmail("null");
-        String actualResult2 = user.getLogin("null");
+        String actualResult1 = user.getEmail(null);
+        String actualResult2 = user.getLogin(null);
 
 
     }
     @Test
     void whichWillTestIfTheCorrectEmailIsSet() {
         User user = new User();
-
-        String actualResult1 = user.getEmail(null);
-        String actualResult2 = user.getLogin(null);
-
-        Assertions.assertFalse(actualResult1.contains(actualResult2));
+        String sign= "@.";
+        String actualResult1 = user.getEmail("t.kovatseva@.mail.ru");
+        Assertions.assertTrue (actualResult1.contains(sign));
     }
     @Test
     void whichDeterminesIfLoginAndEmailAreEqual() {
