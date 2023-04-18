@@ -13,11 +13,13 @@ public class User {
         this.email = email;
     }
 
-    public String getLogin(String kovatseva) {
+    public String getLogin() {
         return login;
     }
 
-    public String getEmail(String s) {
+    public String getEmail() {
         return email;
     }
+
+
 }
